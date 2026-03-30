@@ -71,7 +71,10 @@ The goal of this project is to help students use digital tools effectively, comm
 - **Kaggle Profile:**  
       www.kaggle.com/nitinkumar25bai11266
 
-  📚 Module Summary
+
+ 
+ 📚 Module Summary
+
 ✅ Task 1
 Created an infographic on digital literacy using Canva.
 
