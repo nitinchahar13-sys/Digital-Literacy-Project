@@ -70,3 +70,19 @@ The goal of this project is to help students use digital tools effectively, comm
 
 - **Kaggle Profile:**  
       www.kaggle.com/nitinkumar25bai11266
+
+  📚 Module Summary
+✅ Task 1
+Created an infographic on digital literacy using Canva.
+
+✅ Task 2
+Set up profiles on HackerRank, Kaggle, and LinkedIn.
+
+✅ Task 3
+Practiced coding on HackerRank and created a Google Form quiz.
+
+✅ Task 4
+Learned email etiquette and responsible social media usage.
+
+✅ Task 5
+Studied cybercrime (UPI fraud) and prevention techniques.
